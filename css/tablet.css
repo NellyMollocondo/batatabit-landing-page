@@ -3,6 +3,7 @@
     justify-content: center;
     width: 930px;
     margin: 0 auto;
+    overflow-x:visible;
 }
 
 .products-card__container{
@@ -14,4 +15,5 @@
 
 .plans-container__slider{
     justify-content: center;
+    overflow-x: visible;
 }
